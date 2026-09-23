@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aman-bg-remover.vercel.app/sitemap.xml
